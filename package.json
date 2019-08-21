@@ -1,0 +1,12 @@
+{
+  "name": "Sharked",
+  "version": "0.1.0",
+  "description": "Bot Discord by Sharked",
+  "main": "main.js",
+  "repository": "https://github.com/SharkedES/bot-discordjs.git",
+  "author": "Sharked ES <nikolas.jcb80700@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
